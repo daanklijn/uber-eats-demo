@@ -1,8 +1,15 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { Input } from "baseui/input";
 import { Menu, ChevronDown, Search } from "baseui/icon";
 
 import { Tabs, Tab } from "baseui/tabs";
 import { SegmentedControl, Segment } from "baseui/segmented-control";
+import {
+  HeaderNavigation,
+  ALIGN,
+  StyledNavigationList,
+  StyledNavigationItem,
+} from "baseui/header-navigation";
 
 const MarkerIcon = () => (
   <svg
@@ -53,22 +60,38 @@ export default () => {
 
   return (
     <>
-      <div style={marginStyle}>
-        <Menu size="40px" style={marginStyle} />
-        <img src="./logo.svg" height="30px" style={marginStyle} />
-        <SegmentedControl>
-          <Segment label="Delivery" />
-          <Segment label="Pickup" />
-        </SegmentedControl>
-        <div style={marginStyle}>
-          <MarkerIcon />
-          <h3>Amsterdam • Now</h3>
-        </div>
-        <div style={{ width: "40%" }}>
-          <Input startEnhancer={<Search size="25px" />} />
-        </div>
-        <CartIcon style={marginStyle} />
-      </div>
+      <HeaderNavigation style={{ marginBottom: "30px" }}>
+        <StyledNavigationList $align={ALIGN.left}>
+          <StyledNavigationItem>
+            <Menu size="40px" style={marginStyle} />
+          </StyledNavigationItem>
+          <StyledNavigationItem>
+            <img src="./logo.svg" height="30px" style={marginStyle} />
+          </StyledNavigationItem>
+          <StyledNavigationItem>
+            <SegmentedControl>
+              <Segment label="Delivery" />
+              <Segment label="Pickup" />
+            </SegmentedControl>
+          </StyledNavigationItem>
+
+          <StyledNavigationItem>
+            <div style={marginStyle}>
+              <MarkerIcon />
+              <h3>Amsterdam • Now</h3>
+            </div>
+          </StyledNavigationItem>
+          <StyledNavigationItem>
+            <div style={{ width: "30vw" }}>
+              <Input startEnhancer={<Search size="25px" />} />
+            </div>
+          </StyledNavigationItem>
+        </StyledNavigationList>
+        <StyledNavigationList $align={ALIGN.center}>
+        </StyledNavigationList>
+        <StyledNavigationList $align={ALIGN.right}>
+        </StyledNavigationList>
+      </HeaderNavigation>
 
       <Tabs activeKey={"0"}>
         <Tab title="All"></Tab>
