@@ -2,7 +2,7 @@
 
 Demo App for the Hack Your Future Typescript workshop
 
-![Screenshot 2024-11-05 at 16 24 49](https://github.com/user-attachments/assets/11a12b73-4a09-44c5-b3d2-82ca61e72153)
+![Screenshot 2024-11-07 at 13 42 28](https://github.com/user-attachments/assets/94af8bc3-b77a-4c4f-8f84-cf81ed3079e0)
 
 
 ## How to run?
