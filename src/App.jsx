@@ -5,6 +5,7 @@ import { Provider as StyletronProvider } from "styletron-react";
 import { LightTheme, BaseProvider, styled } from "baseui";
 import UberEatsHeader from "./components/UberEatsHeader";
 import RestaurantFeed from "./components/RestaurantFeed";
+import RestaurantView from "./components/RestaurantView";
 
 function App() {
   const engine = new Styletron();
@@ -13,7 +14,7 @@ function App() {
       <BaseProvider theme={LightTheme}>
         <div className="App">
           <UberEatsHeader />
-          <RestaurantFeed />
+          <RestaurantView />
         </div>
       </BaseProvider>
     </StyletronProvider>

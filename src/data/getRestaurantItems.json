@@ -1,0 +1,784 @@
+[
+  {
+    "title": "Big Mac",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/61b819b50b4c96e00fe59e8ff4342141/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "De enige echte. Burger van rundvlees met verse sla, Cheddar smeltkaas, uitjes, augurk en speciale Big Mac-saus op een 3-delig sesambroodje."
+  },
+  {
+    "title": "Franse Frietjes groot",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4a373eec2704553d366b99436ef4c20c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.75",
+    "itemDescription": "Goudegele frietjes, gebakken in 100% plantaardige olie."
+  },
+  {
+    "title": "Chicken McNuggets 6",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ec300b51d54948a053c47a0eb2c473ef/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€3.55",
+    "itemDescription": "6 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Chicken McNuggets 9",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2c4606e225b509f1d4e6416265a7c21/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.05",
+    "itemDescription": "9 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Franse Frietjes",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d2ad3f1c4d6a5dfdc7d5df7111e95d1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.10",
+    "itemDescription": "Goudgele frietjes, gebakken in 100% plantaardige olie.."
+  },
+  {
+    "title": "Chicken McNuggets 20",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ec61aeab4931fc1aa0ac6905b99c92b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€12.95",
+    "itemDescription": "20 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Quarter Pounder",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24dc863bcd462352dc4a3c072dab370c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Onze wereldberoemde burger. Met een royale burger van 100% rundvlees, cheddar smeltkaas, verse uitjes en fijne augurk slices. Afgemaakt met een lekker laagje ketchup en mosterd op een getoast sesambroodje."
+  },
+  {
+    "title": "McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64a37d3fc63a3d7bbe438c886e8b042e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Malse kipfilet met een krokant laagje, sla en een frisse sandwichsaus op een sesambroodje."
+  },
+  {
+    "title": "Single Big Tasty",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b3ea88633ba7d153a54283922b401fe/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€9.75",
+    "itemDescription": "Is de Double Big Tasty too much? Ga dan voor de kleinere smaaksensatie, onze Single BIg Tasty! Een burger van 100% rundvlees met crunchy bacon, emmentaler smeltkaas, juicy tomaat, verse uitjes en frisse sla. Met een speciale Big Tasty grillsaus op een geroosterd sesambroodje."
+  },
+  {
+    "title": "McCrispy",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0cdc4cab020c1d0c2ba5e48f607c2406/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€8.80",
+    "itemDescription": "Je nieuwe favoriet! Een mega krokante, super juicy en heerlijk malse kipburger met frisse bataviasla gepaard met romige black pepper mayo op een luxe potato bun."
+  },
+  {
+    "title": "McCrispy Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87c848b4203732197f2e873cd8d9f78f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€9.55",
+    "itemDescription": "Onze mega krokante en super malse McCrispy, maar dan met Sweet Honey Mustard saus, witte kool, bataviasla, natuurlijk gerijpte cheddar kaas en gefrituurde ui. Knapperig op z’n lekkerst, met een zoet-pittige twist!"
+  },
+  {
+    "title": "Double Cheeseburger",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75bd542e9a7e4036620c0db6205a286f/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.45",
+    "itemDescription": "Twee 100% rundvleesburgers met twee plakken cheddar smeltkaas, ketchup, mosterd, verse uitjes en twee plakjes augurk op een heerlijk broodje."
+  },
+  {
+    "title": "Spicy McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa094b561014df657914fd2d6e2bb302/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "De Spicy McChicken met een kipburger van malse kipfilet in een krokant laagje, met verse sla en een heerlijke Spicy romige saus."
+  },
+  {
+    "title": "Double Quarter Pounder",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03e111dbe164624aeaef6b1738a744f9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€9.75",
+    "itemDescription": "Onze wereldberoemde burger is er nu ook voor de grote trek! Met twee royale burgers van 100% rundvlees, cheddar smeltkaas, verse uitjes en fijne augurk slices. Afgemaakt met een lekker laagje ketchup en mosterd op een getoast sesambroodje."
+  },
+  {
+    "title": "McKroket",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9125080b3fdff96f7a3ee2ddc0801a33/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Typisch McDonald’s broodje kroket. Met een kroket van ragout met stukjes puur rundvlees en daar bovenop een lekkere mosterdsaus"
+  },
+  {
+    "title": "Coca-Cola medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f20a57ddeff72b28a67c1f42a6e533d3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Coca-Cola. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Filet-O-Fish",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fdcc833969ae5f70d304fffe1574183/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.35",
+    "itemDescription": "Visfilet met Cheddar Smeltkaas en tartaarsaus op een gestoomd broodje."
+  },
+  {
+    "title": "Happy Meal Cheeseburger met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26010e6c9201c790bb59c805114382a6/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met  een burger van rundvlees met Cheddar Smeltkaas, ketchup, mosterd, uitjes en augurk op een speciaal hamburgerbroodje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Chicken McNuggets 4 met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/262d6018c0a241c4f10dedb71ef7abb0/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met 4 stukjes malse kip met een krokant laagje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Chicken McNuggets 6",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ec300b51d54948a053c47a0eb2c473ef/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€3.55",
+    "itemDescription": "6 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Franse Frietjes groot",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4a373eec2704553d366b99436ef4c20c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.75",
+    "itemDescription": "Goudegele frietjes, gebakken in 100% plantaardige olie."
+  },
+  {
+    "title": "Medium Milk Shake Banaan",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14449bf5f94ddb2c98f0938d8dc532fc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.50",
+    "itemDescription": "Milk Shake met de smaak banaan. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Double Big Tasty",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1cd704ff51ac406abc34d7f88506b68/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€10.70",
+    "itemDescription": "Heb je grote trek? Ga dan voor onze Double Big Tasty! Twee royale burgers van 100% rundvlees met crunchy bacon, emmentaler smeltkaas, juicy tomaat, verse uitjes en frisse sla.  Met een speciale Big Tasty grillsaus op een geroosterd sesambroodje."
+  },
+  {
+    "title": "Chili Chicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5dd6f685b1f809e184d50df7a0711946/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€2.55"
+  },
+  {
+    "title": "Big Mac",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/61b819b50b4c96e00fe59e8ff4342141/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "De enige echte. Burger van rundvlees met verse sla, Cheddar smeltkaas, uitjes, augurk en speciale Big Mac-saus op een 3-delig sesambroodje."
+  },
+  {
+    "title": "Cheeseburger",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be0249a4588492a1b4244348dd76a063/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€2.55"
+  },
+  {
+    "title": "Quarter Pounder",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/24dc863bcd462352dc4a3c072dab370c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Onze wereldberoemde burger. Met een royale burger van 100% rundvlees, cheddar smeltkaas, verse uitjes en fijne augurk slices. Afgemaakt met een lekker laagje ketchup en mosterd op een getoast sesambroodje."
+  },
+  {
+    "title": "Double Cheeseburger",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/75bd542e9a7e4036620c0db6205a286f/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.45",
+    "itemDescription": "Twee 100% rundvleesburgers met twee plakken cheddar smeltkaas, ketchup, mosterd, verse uitjes en twee plakjes augurk op een heerlijk broodje."
+  },
+  {
+    "title": "McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/64a37d3fc63a3d7bbe438c886e8b042e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Malse kipfilet met een krokant laagje, sla en een frisse sandwichsaus op een sesambroodje."
+  },
+  {
+    "title": "Single Big Tasty",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2b3ea88633ba7d153a54283922b401fe/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€9.75",
+    "itemDescription": "Is de Double Big Tasty too much? Ga dan voor de kleinere smaaksensatie, onze Single BIg Tasty! Een burger van 100% rundvlees met crunchy bacon, emmentaler smeltkaas, juicy tomaat, verse uitjes en frisse sla. Met een speciale Big Tasty grillsaus op een geroosterd sesambroodje."
+  },
+  {
+    "title": "Spicy McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa094b561014df657914fd2d6e2bb302/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "De Spicy McChicken met een kipburger van malse kipfilet in een krokant laagje, met verse sla en een heerlijke Spicy romige saus."
+  },
+  {
+    "title": "Double Quarter Pounder",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/03e111dbe164624aeaef6b1738a744f9/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€9.75",
+    "itemDescription": "Onze wereldberoemde burger is er nu ook voor de grote trek! Met twee royale burgers van 100% rundvlees, cheddar smeltkaas, verse uitjes en fijne augurk slices. Afgemaakt met een lekker laagje ketchup en mosterd op een getoast sesambroodje."
+  },
+  {
+    "title": "Hamburger",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0deb4211046b2761e625ebcc3eccd72c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€2.10"
+  },
+  {
+    "title": "Double Big Tasty",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c1cd704ff51ac406abc34d7f88506b68/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€10.70",
+    "itemDescription": "Heb je grote trek? Ga dan voor onze Double Big Tasty! Twee royale burgers van 100% rundvlees met crunchy bacon, emmentaler smeltkaas, juicy tomaat, verse uitjes en frisse sla.  Met een speciale Big Tasty grillsaus op een geroosterd sesambroodje."
+  },
+  {
+    "title": "Chili Chicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5dd6f685b1f809e184d50df7a0711946/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€2.55"
+  },
+  {
+    "title": "McPlant*",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cff4566f4d2e59309a31146057185fb1/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€8.10",
+    "itemDescription": "Let op: De McPlant is vanaf 11.00u verkrijgbaar. Een smaakvolle burger met een plantaardige hamburger* van Beyond Meat, in een groot menu samen met Franse Frietjes en een drankje * dit product is geschikt voor flexitariërs, kruisbesmetting met rundvlees is in de keuken niet uit te sluiten"
+  },
+  {
+    "title": "McWrap Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41fd6cfb4f53cefda0b48b4a6fccafcf/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€10.70",
+    "itemDescription": "Bestellen kan tot 23:00 uur. De McWrap Honey Mustard met chicken tenders, tomaat, witte kool, verse sla en een heerlijke honing mosterd saus opgerold in een volkoren wrap!"
+  },
+  {
+    "title": "Veggie McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/063246338d0196e6fde1438d27b4ed39/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Onze lekkere McChicken is ook vegetarisch verkrijgbaar. Kies je voor Veggie, dan krijg je dezelfde burger, maar we vervangen de krokante kipfilet voor een burger van Valess. (Valess is een vleesvervanger gemaakt van zuivel)"
+  },
+  {
+    "title": "Double Chili Chicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/95bf18f65d58adec03e3edeff4efde70/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.55",
+    "itemDescription": "Twee krokante kipburgers met frisse sla en zoete chilisaus op een heerlijk broodje."
+  },
+  {
+    "title": "Veggie Spicy McChicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4fe336b7d04816cb00856aaef7413367/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Make it Veggie! Geniet van dezelfde smaken als de Spicy McChicken, maar dan met een burger van Valess. Daarbovenop verse sla en een Spicy romige saus op een getoast sesambroodje."
+  },
+  {
+    "title": "Veggie McWrap Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/21942b841bc3980e5d40b71a76544dec/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€10.70",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Geniet van dezelfde smaak als van de McWrap Honey Mustard, maar dan met krokante Valess. Samen met tomaat, witte kool, sla en honing mosterd saus in een volkoren wrap!"
+  },
+  {
+    "title": "Filet-O-Fish",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6fdcc833969ae5f70d304fffe1574183/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.35",
+    "itemDescription": "Visfilet met Cheddar Smeltkaas en tartaarsaus op een gestoomd broodje."
+  },
+  {
+    "title": "Maestro Swiss Cheese",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/60dd599368f3ba3caef6089cc9ccec46/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€10.35",
+    "itemDescription": "Een 100% rundvleesburger met raclette kaas, bacon, witte uien, frisse bataviasla, augurk, wit- & rodeuien relishsaus en Eggless saus op een luxe patato bun."
+  },
+  {
+    "title": "McKroket",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9125080b3fdff96f7a3ee2ddc0801a33/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Typisch McDonald’s broodje kroket. Met een kroket van ragout met stukjes puur rundvlees en daar bovenop een lekkere mosterdsaus"
+  },
+  {
+    "title": "McCrispy Swiss Cheese",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/81738e86963e16a4ef0d0e9169cf2a21/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€10.35",
+    "itemDescription": "Een krokante kipburger met raclette kaas, witte uien, frisse bataviasla, augurk, wit- & rodeuien relishsaus en Eggless saus op een luxe patato bun."
+  },
+  {
+    "title": "McCrispy",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0cdc4cab020c1d0c2ba5e48f607c2406/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€8.80",
+    "itemDescription": "Je nieuwe favoriet! Een mega krokante, super juicy en heerlijk malse kipburger met frisse bataviasla gepaard met romige black pepper mayo op een luxe potato bun."
+  },
+  {
+    "title": "McCrispy Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/87c848b4203732197f2e873cd8d9f78f/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€9.55",
+    "itemDescription": "Onze mega krokante en super malse McCrispy, maar dan met Sweet Honey Mustard saus, witte kool, bataviasla, natuurlijk gerijpte cheddar kaas en gefrituurde ui. Knapperig op z’n lekkerst, met een zoet-pittige twist!"
+  },
+  {
+    "title": "Meatless Crispy Chicken",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/23d518115ea224c4f3910ed0b6943205/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€8.80",
+    "itemDescription": "Je nieuwe Meatless favoriet! Met een burger van Valess, frisse bataviasla gepaard met romige black pepper mayo op een luxe potato bun."
+  },
+  {
+    "title": "Meatless Crispy Chicken Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89d2e749f53950763163fcd286b374f1/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€9.95",
+    "itemDescription": "Met Sweet Honey Mustard saus, witte kool, bataviasla, natuurlijk gerijpte cheddar kaas en gefrituurde ui op een luxe potato bun. Knapperig op z’n lekkerst, met een zoet-pittige twist!"
+  },
+  {
+    "title": "Chicken Salad Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7cdf54322d415588ee3738dff2060556/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Een frisse salade met kip en honing-mosterddressing."
+  },
+  {
+    "title": "Side Salad",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d5737afc13eca99c4ca4ff19fb911eae/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€3.60",
+    "itemDescription": "Mix it up met deze heerlijke verse sla mix! Met gele wortel, witte kool, Cherry tomaatjes, maïs en een balsamico dressing."
+  },
+  {
+    "title": "Chicken Salad Honey Mustard Voordeelmenu",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/41c7bdd5ac0515d974086ed6aa9da68a/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€10.10",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Een frisse salade met kip en honing-mosterddressing. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Veggie Chicken Salad Honey Mustard",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c74f012b6c2aa29ef6858548257f39a3/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€7.75",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Onze Chicken Salad met Honey Mustard saus is er ook zonder vlees! Zo geniet jij van een heerlijke salade met Valess, afgetopt met onze klassieke Honey Mustard saus. 100% Meatless, 100% McDonald's!"
+  },
+  {
+    "title": "Veggie Chicken Salad Honey Mustard Voordeelmenu",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/90a3dd6c381c7ff42bdbc21ced2dce81/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€10.10",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Onze Chicken Salad met Honey Mustard saus is er ook zonder vlees! *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Chicken McNuggets 9",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c2c4606e225b509f1d4e6416265a7c21/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.05",
+    "itemDescription": "9 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Chicken McNuggets 6",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ec300b51d54948a053c47a0eb2c473ef/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€3.55",
+    "itemDescription": "6 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Chicken McNuggets 20",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3ec61aeab4931fc1aa0ac6905b99c92b/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€12.95",
+    "itemDescription": "20 stukjes malse kip met een krokant laagje."
+  },
+  {
+    "title": "Chicken Tenders",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6209c1e4ca7f40fcf9db8c5a734cf3f8/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.85",
+    "itemDescription": "Bestellen kan tot 23:00 uur. Twee heerlijk malse Tenders, lekker en perfect voor erbij!"
+  },
+  {
+    "title": "Veggie Nuggets 9",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/89b172cd2a11726e7b5781bde5bcd16e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€5.05",
+    "itemDescription": "9 Veggie Nuggets, knapperig van buiten en zacht van binnen. 100% Meatless, 100% McDonald's!"
+  },
+  {
+    "title": "Veggie Nuggets 6",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/3cbc7ba8ea3ef411b1115eccc32bc257/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€3.55",
+    "itemDescription": "6 Veggie Nuggets, knapperig van buiten en zacht van binnen. 100% Meatless, 100% McDonald's!"
+  },
+  {
+    "title": "Veggie Nuggets 20",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2479901aa5677afadfc8cbd289a01b95/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€12.95",
+    "itemDescription": "20 Veggie Nuggets, knapperig van buiten en zacht van binnen. 100% Meatless, 100% McDonald's!"
+  },
+  {
+    "title": "Crispy Shrimps 3 Stuks",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bcb5eea9e525f4d4a5a58cf8bbb16922/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€2.50",
+    "itemDescription": "Drie heerlijke garnalen in een knapperig jasje. Met een saus naar keuze."
+  },
+  {
+    "title": "Crispy Shrimps 6 Stuks",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4513e0cfe0c69710e71db560a49bfb35/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€4.95",
+    "itemDescription": "Zes heerlijke garnalen in een knapperig jasje. Met een saus naar keuze."
+  },
+  {
+    "title": "Happy Meal Cheeseburger met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26010e6c9201c790bb59c805114382a6/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met  een burger van rundvlees met Cheddar Smeltkaas, ketchup, mosterd, uitjes en augurk op een speciaal hamburgerbroodje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Chicken McNuggets 4 met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/262d6018c0a241c4f10dedb71ef7abb0/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met 4 stukjes malse kip met een krokant laagje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Cheeseburger met Boekje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a1a863f35e107e5719152f999a86e64d/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met een burger van rundvlees met Cheddar Smeltkaas, ketchup, mosterd, uitjes en augurk op een speciaal hamburgerbroodje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Hamburger met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/270922813e723a03acac73ffd0efc018/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met een burger van rundvlees met ketchup, mosterd, uitjes en augurk op een speciaal hamburgerbroodje *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Chicken McNuggets 4 met Boekje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d99863fba4374476ab9ea096070a614e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met 4 stukjes malse kip met een krokant laagje. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal McFish met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/373e1a84faf3645d42815f687aadc2da/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met een zacht broodje met een heerlijk gepaneerde visfilet en een beetje ketchup. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Veggie Nuggets 4 met Speeltje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5760bb03597ade93bd436d6e34e69d47/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Vier knapperige Veggie Nuggets met keuze uit Franse Frietjes of groente van het seizoen. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Veggie Nuggets 4 met Boekje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fe8c19a065acb646c74b2c7882fcea0c/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Vier knapperige Veggie Nuggets met keuze uit Franse Frietjes of groente van het seizoen. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal Hamburger met Boekje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/be8d3b00d81c856eafc834da26391259/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met een burger van rundvlees met ketchup, mosterd, uitjes en augurk op een speciaal hamburgerbroodje *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Happy Meal McFish met Boekje",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/bc622dd169c67408fa9fd9add8ef3e65/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.85",
+    "itemDescription": "Happy Meal met een zacht broodje met een heerlijk gepaneerde visfilet en een beetje ketchup. *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "Franse Frietjes",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d2ad3f1c4d6a5dfdc7d5df7111e95d1/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.10",
+    "itemDescription": "Goudgele frietjes, gebakken in 100% plantaardige olie.."
+  },
+  {
+    "title": "Franse Frietjes groot",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4a373eec2704553d366b99436ef4c20c/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.75",
+    "itemDescription": "Goudegele frietjes, gebakken in 100% plantaardige olie."
+  },
+  {
+    "title": "Fritessaus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7862312189f111f19a8ae2f15651a135/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05",
+    "itemDescription": "Speciale McDonald's fritessaus."
+  },
+  {
+    "title": "Zoetzure saus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e51f112ecdb668db2e858f5486e1c1b3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "BBQ Saus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1faacf4126776a54d8a2a8b083e3d440/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "Mayonaise",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/b9edf5f74ad04c02bcb455c9e27ca03d/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "Ketchup",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f57eca07620bada58f39ed613bbb7401/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "Chili Dip",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/cef2695c0c3c2b9e356b62e9d02d5cb3/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05",
+    "itemDescription": "Een heerlijke saus met een smaakcombinatie van zoet en pittig: ideaal om je snack in te dippen!"
+  },
+  {
+    "title": "Mosterd Saus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fae9d35a601a8467aef03a19fdc6218e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "Kerrie Saus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d07314d0ddd43b4b425e6519eb7a80fa/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€1.05"
+  },
+  {
+    "title": "Coca-Cola medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f20a57ddeff72b28a67c1f42a6e533d3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Coca-Cola. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Medium Milk Shake Aardbei",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12c4eed9c44bb42bdc16cb985c07700e/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.50",
+    "itemDescription": "Milk shake met de smaak aardbei. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Coca-Cola Zero Sugar medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e23e6a0f4d58cc1dd81b84e856c7241d/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Coca-Cola Zero. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Medium Milk Shake Vanille",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d7bdcbf703095e4e55b729764ffbaee/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.50",
+    "itemDescription": "Milk Shake met de smaak vanille. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Medium Milk Shake Banaan",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14449bf5f94ddb2c98f0938d8dc532fc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.50",
+    "itemDescription": "Milk Shake met de smaak banaan. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Medium Milk Shake Chocolade (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a910317a7b47581632cdb9f43612b3a2/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.50",
+    "itemDescription": "Shake, shake, shake! Heerlijk verfrissend. Geniet van onze Milk Shake Chocolade. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Medium Milk Shake Chocolade",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a910317a7b47581632cdb9f43612b3a2/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€5.50",
+    "itemDescription": "Shake, shake, shake! Heerlijk verfrissend. Geniet van onze Milk Shake Chocolade. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Lipton Ice Tea Sparkling (Zero*) medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c78b52f39bcd97e07e248ba04c23bafd/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Lipton Ice Tea.*Let op: het kan zijn dat dit restaurant nog niet over is op de zero variant. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Fanta (Zero*) medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d3acd419b47e4281a3155616a60ba50/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Fanta.*Let op: het kan zijn dat dit restaurant nog niet over is op de zero variant.*Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Iced Frappé Koffie Karamel",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/56cab5adb4aedccadbd5aa9ec8cb4a68/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.00",
+    "itemDescription": "Een luxe ijskoffie op basis van crushed ice afgemaakt met room en caramelsaus. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Coca-Cola Zero Sugar medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e23e6a0f4d58cc1dd81b84e856c7241d/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.65",
+    "itemDescription": "Verfrissende Coca-Cola Zero. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Coca-Cola medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f20a57ddeff72b28a67c1f42a6e533d3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.65",
+    "itemDescription": "Verfrissende Coca-Cola. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Sprite Zero Sugar medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1c600f588db77452b092594be70f7cc7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€4.65",
+    "itemDescription": "Verfrissende Sprite. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Medium Milk Shake Aardbei (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/12c4eed9c44bb42bdc16cb985c07700e/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.50",
+    "itemDescription": "Milk shake met de smaak aardbei. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Medium Milk Shake Vanille (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2d7bdcbf703095e4e55b729764ffbaee/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.50",
+    "itemDescription": "Milk Shake met de smaak vanille. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Lipton Ice Tea Sparkling (Zero*) medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/c78b52f39bcd97e07e248ba04c23bafd/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.65",
+    "itemDescription": "Verfrissende Lipton Ice Tea.*Let op: het kan zijn dat dit restaurant nog niet over is op de zero variant. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Medium Milk Shake Banaan (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/14449bf5f94ddb2c98f0938d8dc532fc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.50",
+    "itemDescription": "Milk Shake met de smaak banaan. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Iced Frappé Mokka-Chocolade",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/551d14033794eab23723fbc106ce4cac/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.00",
+    "itemDescription": "Een luxe ijskoffie op basis van crushed ice afgemaakt met room en chocoladesaus. *Bij bezorgen van koude dranken betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Iced Frappé Koffie Karamel (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/56cab5adb4aedccadbd5aa9ec8cb4a68/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€7.00",
+    "itemDescription": "Een luxe ijskoffie op basis van crushed ice afgemaakt met room en caramelsaus. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Chocomel",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9556e56c03094e2775692c894b9ed85e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.85",
+    "itemDescription": "Halfvolle chocolademelk."
+  },
+  {
+    "title": "Sprite Zero Sugar medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1c600f588db77452b092594be70f7cc7/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.65",
+    "itemDescription": "Verfrissende Sprite. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Iced Frappé Mokka-Chocolade (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/551d14033794eab23723fbc106ce4cac/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€7.00",
+    "itemDescription": "Een luxe ijskoffie op basis van crushed ice afgemaakt met room en chocoladesaus. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Fanta (Zero*) medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4d3acd419b47e4281a3155616a60ba50/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.65",
+    "itemDescription": "Verfrissende Fanta.*Let op: het kan zijn dat dit restaurant nog niet over is op de zero variant. *Bij bezorgen van koude dranken kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "Fristi",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6c2d52a0a6aceceb7d6bdca0c04a9b28/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.85",
+    "itemDescription": "Fruitige yoghurtdrink."
+  },
+  {
+    "title": "Red Fruit Lemonade Medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/09e2d46757437627d429b40ee06f13a4/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.35",
+    "itemDescription": "Verkoeling in een beker! Deze heerlijke verfrissende Red Fruit Lemonade met ijsblokjes is de perfecte dorstlesser."
+  },
+  {
+    "title": "Red Fruit Lemonade Medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/09e2d46757437627d429b40ee06f13a4/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.40",
+    "itemDescription": "Verkoeling in een beker! Deze heerlijke verfrissende Red Fruit Lemonade met ijsblokjes is de perfecte dorstlesser."
+  },
+  {
+    "title": "Citrus Lemonade Medium (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2dd135411a8c0b0e153923cbc1cc8f5/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.40",
+    "itemDescription": "Verkoeling in een beker! Deze heerlijke verfrissende Red Fruit Lemonade met ijsblokjes is de perfecte dorstlesser."
+  },
+  {
+    "title": "Citrus Lemonade Medium",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f2dd135411a8c0b0e153923cbc1cc8f5/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.40",
+    "itemDescription": "Verkoeling in een beker! Deze heerlijke verfrissende Red Fruit Lemonade met ijsblokjes is de perfecte dorstlesser."
+  },
+  {
+    "title": "Triple Chocolate Cookie",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4da8beae3dfc8bb91d3159c4c702c683/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.00",
+    "itemDescription": "Cookie met stukjes chocolade, pure chocolade en witte chocolade. Vers uit de oven."
+  },
+  {
+    "title": "White Chocolate Raspberry Cookie",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/723181c9b899e918734b547d1b74987c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.00",
+    "itemDescription": "Cookie met stukjes witte chocolade en framboos. Vers uit de oven."
+  },
+  {
+    "title": "Pop Dot Aardbei",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d424834c1d389672e4bc05fc0492c20/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Aardbei is ideaal voor erbij! De heerlijke vulling van aarbeiensmaak omhuld in donutdeeg en gedecoreerd met roze- en witte decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "Pop Dot Straciatella",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fafdbbbfc553c969a160929e73cf8dfc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Stracciatella is ideaal voor erbij! De heerlijke vulling van stracciatella omhuld in donutdeeg en gedecoreerd met witte- en bruine decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "Pop Dot Triple Chocolate",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2e14cefa096d4cb153bedf4da68f1a0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Triple Choc is ideaal voor erbij! De heerlijke vulling van chocoladesmaak omhuld in donutdeeg en gedecoreerd met bruine- en witte decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "McFlurry Oreo met Chocoladesaus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4f2ebce08951310cbcac6acf29341a3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Softijs met stukjes Oreo. Het aanpassen van de topping en saus is via McDelivery geen optie. *Bij bezorgen van McFlurry’s betaal je een plastic toeslag (€0,10) voor een wegwerpbeker."
+  },
+  {
+    "title": "Sundae Karamel",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5e8dfc47ca67281919e66cd318f76497/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€4.10",
+    "itemDescription": "Softijs met Karamelsaus en Pinda’s. De pindastukjes worden apart in een zakje meegegeven. Meer weten over voedingswaarde en allergenen? Bekijk mcdonalds.nl of de McDonald’s App."
+  },
+  {
+    "title": "Pop Dot Straciatella",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/fafdbbbfc553c969a160929e73cf8dfc/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Stracciatella is ideaal voor erbij! De heerlijke vulling van stracciatella omhuld in donutdeeg en gedecoreerd met witte- en bruine decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "Triple Chocolate Cookie",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/4da8beae3dfc8bb91d3159c4c702c683/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.00",
+    "itemDescription": "Cookie met stukjes chocolade, pure chocolade en witte chocolade. Vers uit de oven."
+  },
+  {
+    "title": "McFlurry M&M's Pinda",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9d92566adbf785c7ed6d52a46595485e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Softijs met stukjes M&M Pinda. *Bij bezorgen van McFlurry’s betaal je een plastic toeslag (€0,10) voor een wegwerpbeker. Meer weten over voedingswaarde en allergenen? Bekijk mcdonalds.nl of de McDonald’s App."
+  },
+  {
+    "title": "Sundae Chocolade",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0ffa306139091bc101f2a4623c8127fd/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€4.10",
+    "itemDescription": "Softijs met Chocoladesaus en Pinda’s. De pindastukjes worden apart in een zakje meegegeven. Meer weten over voedingswaarde en allergenen? Bekijk mcdonalds.nl of de McDonald’s App."
+  },
+  {
+    "title": "Pop Dot Triple Chocolate",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/d2e14cefa096d4cb153bedf4da68f1a0/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Triple Choc is ideaal voor erbij! De heerlijke vulling van chocoladesmaak omhuld in donutdeeg en gedecoreerd met bruine- en witte decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "McFlurry Oreo met Chocoladesaus (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/e4f2ebce08951310cbcac6acf29341a3/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€6.55",
+    "itemDescription": "Softijs met stukjes Oreo. Het aanpassen van de topping en saus is via McDelivery geen optie. *Bij bezorgen van McFlurry’s kan je kiezen voor een statiegeldbeker (€1,00)."
+  },
+  {
+    "title": "White Chocolate Raspberry Cookie",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/723181c9b899e918734b547d1b74987c/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€3.00",
+    "itemDescription": "Cookie met stukjes witte chocolade en framboos. Vers uit de oven."
+  },
+  {
+    "title": "Pop Dot Aardbei",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5d424834c1d389672e4bc05fc0492c20/5954bcb006b10dbfd0bc160f6370faf3.jpeg",
+    "priceTagline": "€1.25",
+    "itemDescription": "De Pop Dot Aardbei is ideaal voor erbij! De heerlijke vulling van aarbeiensmaak omhuld in donutdeeg en gedecoreerd met roze- en witte decoratie, maakt het een kleurrijke lekkernij."
+  },
+  {
+    "title": "Sundae Aardbei",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/f9a5b5f2d77429973feded9edf6645bf/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€4.10",
+    "itemDescription": "Softijs met Aardbeisaus en Pinda’s. De pindastukjes worden apart in een zakje meegegeven. Meer weten over voedingswaarde en allergenen? Bekijk mcdonalds.nl of de McDonald’s App."
+  },
+  {
+    "title": "McFlurry M&M's Pinda (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/9d92566adbf785c7ed6d52a46595485e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.55",
+    "itemDescription": "Softijs met stukjes M&M Pinda. *Bij bezorgen van McFlurry’s betaal je een statiegeld (€1,00) voor een herbruikbare beker. Meer weten over voedingswaarde en allergenen? Bekijk mcdonalds.nl of de McDonald’s App."
+  },
+  {
+    "title": "McFlurry KitKat Chunky met Chocoladesaus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dff51aa16fcf9e019117bcacf2af901e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Ben je een McFlurry lover, die ook smelt voor KitKat? Dan is dit jouw match! Romig softijs, karamelsaus en stukjes KitKat. Hoe lekker is dat!? *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "McFlurry KitKat Chunky met Chocoladesaus (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/dff51aa16fcf9e019117bcacf2af901e/5143f1e218c67c20fe5a4cd33d90b07b.jpeg",
+    "priceTagline": "€6.55",
+    "itemDescription": "Ben je een McFlurry lover, die ook smelt voor KitKat? Dan is dit jouw match! Romig softijs, karamelsaus en stukjes KitKat. Hoe lekker is dat!? *Bij bezorgen betaal je een plastic toeslag (koude dranken (€0,10)). Of je kiest voor een optionele statiegeldbeker (koude dranken (€1,00))."
+  },
+  {
+    "title": "McFlurry Stroopwafel met Karamelsaus",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26410cc53663190cc05fca43cb4c7419/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€5.55",
+    "itemDescription": "Een McFlurry met een Hollands tintje. Romig softijs, krokante stukjes stroopwafel afgemaakt met zoete Karamel-saus. Is dat even genieten!"
+  },
+  {
+    "title": "McFlurry Stroopwafel met Karamelsaus (statiegeld)",
+    "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/26410cc53663190cc05fca43cb4c7419/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+    "priceTagline": "€6.55",
+    "itemDescription": "Een McFlurry met een Hollands tintje. Romig softijs, krokante stukjes stroopwafel afgemaakt met zoete Karamel-saus. Is dat even genieten!"
+  }
+]
