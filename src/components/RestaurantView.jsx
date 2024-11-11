@@ -1,21 +1,20 @@
-/* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 import { Button, SHAPE, SIZE, KIND } from "baseui/button";
 import { ButtonGroup } from "baseui/button-group";
 import restaurantItems from "../data/getRestaurantItems.json";
-import { Card, StyledBody, StyledAction } from "baseui/card";
 import { FlexGrid } from "baseui/flex-grid";
 import { Drawer } from "baseui/drawer";
+import MenuItem from "./MenuItem";
 
-export default () => {
+export default function RestauranView() {
   const [viewCart, setViewCart] = React.useState(false);
   const [cart, setCart] = React.useState([]);
 
   const addToCart = (item) => {
     setCart([...cart, item]);
-  }
-  let totalPrice = 0;
+  };
 
+  let totalPrice = 0;
   cart.forEach((item) => {
     totalPrice += item.priceTagline;
   });
@@ -48,37 +47,20 @@ export default () => {
 
       <FlexGrid>
         {restaurantItems.map((item) => (
-          <Card
-            overrides={{ Root: { style: { width: "22%" } } }}
-            headerImage={item.imageUrl}
-            title={item.title}
-            style={{ margin: "10px" }}
-          >
-            <StyledBody>
-              <div
-                style={{
-                  height: "70px",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                }}
-              >
-                <div>{item.priceTagline}</div>
-                <div> {item.itemDescription} </div>
-              </div>
-            </StyledBody>
-            <StyledAction>
-              <Button kind={KIND.secondary} onClick={() => addToCart(item)}>+ Add to Cart</Button>
-            </StyledAction>
-          </Card>
+          <MenuItem item={item} />
         ))}
       </FlexGrid>
 
       <Drawer isOpen={viewCart} autoFocus onClose={() => setViewCart(false)}>
         <h2>Cart</h2>
-        {cart.map((item) => <div>{item.title} - {item.priceTagline}</div>)}
+        {cart.map((item) => (
+          <div>
+            {item.title} - {item.priceTagline}
+          </div>
+        ))}
         <br></br>
         <div>Total price: €{totalPrice}</div>
       </Drawer>
     </div>
   );
-};
+}

@@ -1,12 +1,11 @@
-/* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 import { Button, SHAPE, SIZE } from "baseui/button";
 import { ButtonGroup } from "baseui/button-group";
 import restaurantFeedData from "../data/getRestaurantFeed.json";
-import { Card, StyledBody, StyledAction } from "baseui/card";
-import { FlexGrid, FlexGridItem } from "baseui/flex-grid";
+import { Card, StyledBody } from "baseui/card";
+import { FlexGrid } from "baseui/flex-grid";
 
-export default () => {
+export default function RestaurantFeed() {
   return (
     <div style={{ marginLeft: "20px", marginRight: "20px" }}>
       {/* Filters */}
@@ -20,21 +19,20 @@ export default () => {
       <FlexGrid>
         {restaurantFeedData.map((restaurant) => (
           <Card
-            overrides={{ Root: { style: { width: "22%" } } }}
+            overrides={{ Root: { style: { width: "22%",  margin: "10px" } } }}
             headerImage={restaurant.image}
             title={restaurant.title}
-            style={{ margin: "10px" }}
           >
             <StyledBody>
-                <div>
+              <div>
                 <div>{restaurant.description}</div>
                 <div>Delivery in {restaurant.deliveryTime}</div>
                 <div>Rating {restaurant?.rating}</div>
-                </div>
+              </div>
             </StyledBody>
           </Card>
         ))}
       </FlexGrid>
     </div>
   );
-};
+}
