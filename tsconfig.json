@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "noImplicitAny": false, // Allow implicit 'any' types
+    "strict": false, // Start without strict type checking
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true, // Enable JSON imports
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+ }
+ 
