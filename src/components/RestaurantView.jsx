@@ -1,14 +1,17 @@
 import React from "react";
 import { Button, SHAPE, SIZE, KIND } from "baseui/button";
 import { ButtonGroup } from "baseui/button-group";
-import restaurantItems from "../data/getRestaurantItems.json";
+
 import { FlexGrid } from "baseui/flex-grid";
-import { Drawer } from "baseui/drawer";
+import Cart from "./Cart";
 import MenuItem from "./MenuItem";
+import { getRestaurantItems } from "../utils/getRestaurantData";
 
 export default function RestauranView() {
   const [viewCart, setViewCart] = React.useState(false);
   const [cart, setCart] = React.useState([]);
+
+  const restaurantItems = getRestaurantItems();
 
   const addToCart = (item) => {
     setCart([...cart, item]);
@@ -51,16 +54,12 @@ export default function RestauranView() {
         ))}
       </FlexGrid>
 
-      <Drawer isOpen={viewCart} autoFocus onClose={() => setViewCart(false)}>
-        <h2>Cart</h2>
-        {cart.map((item) => (
-          <div>
-            {item.title} - {item.priceTagline}
-          </div>
-        ))}
-        <br></br>
-        <div>Total price: €{totalPrice}</div>
-      </Drawer>
+      <Cart
+        viewCart={viewCart}
+        setViewCart={setViewCart}
+        cart={cart}
+        totalPrice={totalPrice}
+      ></Cart>
     </div>
   );
 }
